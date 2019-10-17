@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width, Initial-scale=1.0">
+       <title>Sistema solar - Pagina Inicial</title>
+       <link rel="stylesheet" href="css/estilo.css" type="text/css">
+    </head>
+    <body>
+       <div id="container">
+          <header id="topo">
+              <h1>Sistema Solar</h1>
+          </header>
+          <nav class="menu">
+             <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li>solar
+                    <ul>
+                        <li>Astros
+                            <ul>
+                              <li><a href="sol.html">sol</a></li>
+                              <li><a href="astroides.html">Astroides</a></li>
+                              <li><a href="cometas.html">Cometas</a></li>
+                            </ul>
+                        </li>
+                        <li>Satelites
+                            <ul>
+                               <li><a href="lua.html">Lua</a></li>
+                            </ul>
+                        </li>
+                        <li>Planetas
+                           <ul>
+                              <li><a href="mercurio.html">Merculio</a></li>
+                              <li><a href="venus.html">Venus</a></li>
+                              <li><a href="terra.html">Terra</a></li>
+                              <li><a href="marte.html">Marte</a></li>
+                              <li><a href="jupiter.html">Jupiter</a></li>
+                              <li><a href="saturno.html">Saturno</a></li>
+                              <li><a href="urano.html">Urano</a></li>
+                              <li><a href="urano.html">Netuno</a></li>
+                              <li><a href="plutao.html">Plutão</a></li>
+                           </ul> 
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="referencia.html">Referencias</a></li>
+             </ul>  
+          </nav>
+          <div id="conteudo">
+
+            
+               <h2>Plutão</h2>
+   
+               <p>Plutão que recebera o nome do deus dos infernos, da mitologia greco-latina, foi classificado como o nono planeta do Sistema 
+               Solar. Descoberto em 1930, pelo astrônomo norte-americano Clyde Tombaugh, esse astro foi sempre motivo de acirrados debates.
+               Afinal, as características do planetoide, entre outras a excentricidade de sua órbita inclinada, em que certos períodos cruza 
+               a órbita de Netuno, já indicavam que dificilmente ela poderia permanecer na elite dos planetas do nosso Sistema. Realmente, 
+               76 anos depois, a UAI resolveu reclassificar o astro do grupo de planetas-anões.</p>
+			   
+			   <img src="imagens/plutao.jpg" alt="plutao">
+   
+          </div>
+       </div>
+       <footer id="rodape">
+          <p>Desenvolvido por Gustavo Gregório</p>
+          <p>Turma de Programador web no Senac</p>
+       </footer>
+    </body>
+</html>
