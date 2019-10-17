@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width, Initial-scale=1.0">
+       <title>Sistema solar - Pagina Inicial</title>
+       <link rel="stylesheet" href="css/estilo.css" type="text/css">
+    </head>
+    <body>
+       <div id="container">
+          <header id="topo">
+              <h1>Sistema Solar</h1>
+          </header>
+          <nav class="menu">
+             <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li>solar
+                    <ul>
+                        <li>Astros
+                            <ul>
+                              <li><a href="sol.html">sol</a></li>
+                              <li><a href="astroides.html">Astroides</a></li>
+                              <li><a href="cometas.html">Cometas</a></li>
+                            </ul>
+                        </li>
+                        <li>Satelites
+                            <ul>
+                               <li><a href="lua.html">Lua</a></li>
+                            </ul>
+                        </li>
+                        <li>Planetas
+                           <ul>
+                              <li><a href="mercurio.html">Merculio</a></li>
+                              <li><a href="venus.html">Venus</a></li>
+                              <li><a href="terra.html">Terra</a></li>
+                              <li><a href="marte.html">Marte</a></li>
+                              <li><a href="jupiter.html">Jupiter</a></li>
+                              <li><a href="saturno.html">Saturno</a></li>
+                              <li><a href="urano.html">Urano</a></li>
+                              <li><a href="netuno.html">Netuno</a></li>
+                              <li><a href="plutao.html">Plutão</a></li>
+                           </ul> 
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="referencia.html">Referencias</a></li>
+             </ul>  
+          </nav>
+          <div id="conteudo">
+
+            
+               <h2>Referencias do conteudo do site e o desenvolvimento do site - Fontes</h2>
+
+               <p>Site Planeta Terra: http://planeta-terra.info/sistema-solar.html</p>
+
+               <p>Site Só Biologia: http://www.sobiologia.com.br/conteudos/Universo/sistemasolar.php</p>
+
+               <p>Site da UFRGS: http://astro.if.ufrgs.br/esol/esol.htm</p>
+
+               <p>Site Brasil Escola: http://www.brasilescola.com/geografia/cometa.htm</p>
+
+               <p>Site Wikipedia: https://pt.wikipedia.org/wiki/Lua</p>
+
+               <p>site do google que foi retirada da foto: 
+               https://www.google.com/search?q=sistema+solar&sxsrf=ACYBGNQlC1t1pc9vzZrb8xexqHRpLC6D4Q:
+               1567779281583&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCyaj5sLzkAhWBIbkGHR_XCxEQ_
+               AUIEigB&biw=1366&bih=625#imgrc=MrFwRCgh48GIFM:
+               </p>
+
+               <p>site do google que foi retirada a foto: Sol: https://www.google.com/search?q=sol&sxsrf=
+               ACYBGNRgkvqwDEzAZJSeKc3IPknSXyrjfA:1567781553107&source=lnms&tbm=isch&sa
+               =X&ved=0ahUKEwimv7u0ubzkAhXkB9QKHR73ADAQ_AUIEigB&biw=1366&bih=625#imgrc=1ZTkMI4yYfffYM:</p>
+
+               <p>site do google que foi retirada a foto: Mercurio
+                https://www.google.com/search?q=mercurio&sxsrf=ACYBGNRWT7ZkLe9pkcxK7UFirdCijtGrwA:1567786053735&source=lnms&tbm=
+               isch&sa=X&ved=0ahUKEwia_cOWyrzkAhVoJ7kGHal1DtsQ_AUIEigB&cshid=1567786153371082&biw=1366&bih=576#imgrc=Q9sRpHvQRI1sIM:</p>
+   
+               <p>Site que tirei a imagem:
+			   https://www.inverse.com/article/56489-jupiter-at-opposition-2019</p>
+			   
+			   <p>Site do google:
+			   https://www.google.com/search?q=urano&sxsrf=ACYBGNQWPYsoZ_OyqG6AgIDyW7IRV8sEqw:1568058163869&source=lnms&tbm=
+			   isch&sa=X&ved=0ahUKEwjDt-Duv8TkAhWGK7kGHUttCMQQ_AUIEigB&biw=1366&bih=625#imgrc=NZD3qr1VQq88wM:</p>
+   
+          </div>
+          <footer id="rodape">
+                <p>Desenvolvido por Gustavo Gregório</p>
+                <p>Turma de Programador Web no Senac</p>
+             </footer>
+       </div>
+    </body>
+</html>
