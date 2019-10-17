@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width, Initial-scale=1.0">
+       <title>Sistema solar - Pagina Inicial</title>
+       <link rel="stylesheet" href="css/estilo.css" type="text/css">
+    </head>
+    <body>
+       <div id="container">
+          <header id="topo">
+              <h1>Sistema Solar</h1>
+          </header>
+          <nav class="menu">
+             <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li>solar
+                    <ul>
+                        <li>Astros
+                            <ul>
+                              <li><a href="sol.html">sol</a></li>
+                              <li><a href="astroides.html">Astroides</a></li>
+                              <li><a href="cometas.html">Cometas</a></li>
+                            </ul>
+                        </li>
+                        <li>Satelites
+                            <ul>
+                               <li><a href="lua.html">Lua</a></li>
+                            </ul>
+                        </li>
+                        <li>Planetas
+                           <ul>
+                              <li><a href="mercurio.html">Merculio</a></li>
+                              <li><a href="venus.html">Venus</a></li>
+                              <li><a href="terra.html">Terra</a></li>
+                              <li><a href="marte.html">Marte</a></li>
+                              <li><a href="jupiter.html">Jupiter</a></li>
+                              <li><a href="saturno.html">Saturno</a></li>
+                              <li><a href="urano.html">Urano</a></li>
+                              <li><a href="netuno.html">Netuno</a></li>
+                              <li><a href="plutao.html">Plutão</a></li>
+                           </ul> 
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="referencia.html">Referencias</a></li>
+             </ul>  
+          </nav>
+          <div id="conteudo">
+
+            
+               <h2>Sistema Solar</h2>
+   
+               <p>Até o século XVI, acreditava-se que a Terra era o centro do universo. Que tudo, inclusive o Sol, girava em torno do eixo de nosso 
+               planeta. Mais tarde, com Nicolau Copérnico, começou-se a considerar a ideia de que o Sol seria o centro do universo. Os anos se 
+               passaram e nossos conhecimentos sobre o espaço se desenvolveram. Chegamos à resposta de que existe um grande infinito: galáxias, 
+               outros planetas, estrelas maiores que o Sol. Por fim, vimos que o Sol, influenciava diretamente a órbita de oito planetas, dentre 
+               eles, a Terra. O Sistema Solar é formado pelo Sol e pelos planetas: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno. 
+               Os planetas seguem essa ordem partindo, como ponto inicial, o Sol. Não só os planetas que circulam em torno do Sol: existem estrelas, 
+               satélites naturais (chamadas de luas) e outros corpos espaciais. Todo o Sistema Solar está dentro de algo maior: a Via Láctea (a galáxia 
+               formada por milhares de estrelas e corpos celestes e que abriga o Sistema Solar).</p>
+			   
+			   <img src="imagens/sistemas_solar.jpg" alt="sistemas solar" width="1070">
+   
+          </div>
+       </div>
+       <footer id="rodape">
+          <p>Desenvolvido por Gustavo Gregório</p>
+          <p>Turma de Programador web no Senac</p>
+       </footer>
+    </body>
+</html>
