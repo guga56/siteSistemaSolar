@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width, Initial-scale=1.0">
+       <title>Sistema solar - Pagina Inicial</title>
+       <link rel="stylesheet" href="css/estilo.css" type="text/css">
+    </head>
+    <body>
+       <div id="container">
+          <header id="topo">
+              <h1>Sistema Solar</h1>
+          </header>
+          <nav class="menu">
+             <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li>solar
+                    <ul>
+                        <li>Astros
+                            <ul>
+                              <li><a href="sol.html">sol</a></li>
+                              <li><a href="astroides.html">Astroides</a></li>
+                              <li><a href="cometas.html">Cometas</a></li>
+                            </ul>
+                        </li>
+                        <li>Satelites
+                            <ul>
+                               <li><a href="lua.html">Lua</a></li>
+                            </ul>
+                        </li>
+                        <li>Planetas
+                           <ul>
+                              <li><a href="mercurio.html">Merculio</a></li>
+                              <li><a href="venus.html">Venus</a></li>
+                              <li><a href="terra.html">Terra</a></li>
+                              <li><a href="marte.html">Marte</a></li>
+                              <li><a href="jupiter.html">Jupiter</a></li>
+                              <li><a href="saturno.html">Saturno</a></li>
+                              <li><a href="urano.">Urano</a></li>
+                              <li><a href="netuno.html">Netuno</a></li>
+                              <li><a href="plutao.html">Plutão</a></li>
+                           </ul> 
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="referencia.html">Referencias</a></li>
+             </ul>  
+          </nav>
+          <div id="conteudo">
+
+            
+               <h2>Netuno</h2>
+   
+               <p>Orbitando tão longe do Sol, Netuno recebe muito pouco calor. A sua temperatura superficial média é de -218 °C. No entanto, o 
+               planeta parece ter uma fonte interna de calor. Pensa-se que isto se deve ao calor restante, gerado pela matéria em queda durante 
+               o nascimento do planeta, que agora irradia pelo espaço fora. A atmosfera de Netuno tem as mais altas velocidades de ventos no 
+               sistema solar, que são acima de 2000 km/h; acredita-se que os ventos são amplificados por este fluxo interno de calor. A 
+               estrutura interna lembra a de Urano - um núcleo rochoso coberto por uma crosta de gelo, escondida no profundo de sua grossa 
+               atmosfera. Os dois terços internos de Netuno são compostos de uma mistura de rocha fundida, água, amônia líquida e metano. A 
+               terça parte exterior é uma mistura de gases aquecidos composta por hidrogênio, hélio, água e metano. Embora não sejam visíveis 
+               nas fotografias do telescópio espacial Hubble, Netuno faz parte dos planetas gigantes que possuem um complexo sistema de anéis. 
+               Possui cinco anéis principais e sua descoberta se deve a uma observação efetuada ainda em 1984 a bordo de um avião U2 que 
+               acompanhou o deslocamento do planeta por algumas horas durante a ocultação de uma estrela. Neptuno tem 13 luas conhecidas. A 
+               maior delas é Tritão, descoberta por William Lassell apenas 17 dias depois da descoberta de Netuno.</p>
+   
+          </div>
+       </div>
+       <footer id="rodape">
+          <p>Desenvolvido por Gustavo Gregório</p>
+          <p>Turma de Programador web no Senac</p>
+       </footer>
+    </body>
+</html>
