@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width, Initial-scale=1.0">
+       <title>Sistema solar - Pagina Inicial</title>
+       <link rel="stylesheet" href="css/estilo.css" type="text/css">
+    </head>
+    <body>
+       <div id="container">
+          <header id="topo">
+              <h1>Sistema Solar</h1>
+          </header>
+          <nav class="menu">
+             <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li>solar
+                    <ul>
+                        <li>Astros
+                            <ul>
+                              <li><a href="sol.html">sol</a></li>
+                              <li><a href="astroides.html">Astroides</a></li>
+                              <li><a href="cometas.html">Cometas</a></li>
+                            </ul>
+                        </li>
+                        <li>Satelites
+                            <ul>
+                               <li><a href="lua.html">Lua</a></li>
+                            </ul>
+                        </li>
+                        <li>Planetas
+                           <ul>
+                              <li><a href="mercurio.html">Merculio</a></li>
+                              <li><a href="venus.html">Venus</a></li>
+                              <li><a href="terra.html">Terra</a></li>
+                              <li><a href="marte.html">Marte</a></li>
+                              <li><a href="jupiter.html">Jupiter</a></li>
+                              <li><a href="saturno.html">Saturno</a></li>
+                              <li><a href="urano.html">Urano</a></li>
+                              <li><a href="urano.html">Netuno</a></li>
+                              <li><a href="plutao.html">Plutão</a></li>
+                           </ul> 
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="referencia.html">Referencias</a></li>
+             </ul>  
+          </nav>
+          <div id="conteudo">
+
+            
+               <h2>Saturno</h2>
+   
+               <p>É o segundo maior planeta do nosso sistema solar. É famoso por seus anéis, que podem ser vistos com o auxílio de pequenos telescópios. Os anéis 
+               são feitos com pedaços de gelo e rochas. A temperatura média da superfície do planeta é de -140ºC. Saturno é formado basicamente 
+               por hidrogênio e pequena quantidade de hélio. O movimento de rotação em volta do seu eixo demora cerca de 10,5 horas, e cada 
+               revolução ao redor do Sol leva 30 anos terrestres. Tem um número elevado de satélites, 60 descobertos até então, dos quais 35 
+               possuem nomes, e está cercado por um complexo de anéis concêntricos, composto por dezenas de anéis individuais separados por 
+               intervalos, estando o mais exterior destes situado a 138 000 km do centro do planeta geralmente compostos por restos de meteoros 
+               e cristais de gelo. Alguns deles têm o tamanho de uma casa.</p>
+   
+          </div>
+       </div>
+       <footer id="rodape">
+          <p>Desenvolvido por Gustavo Gregório</p>
+          <p>Turma de Programador web no Senac</p>
+       </footer>
+    </body>
+</html>
