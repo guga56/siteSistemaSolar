@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width-device-width, Initial-scale=1.0">
+       <title>Sistema solar - Pagina Inicial</title>
+       <link rel="stylesheet" href="css/estilo.css" type="text/css">
+    </head>
+    <body>
+      <div id="container">
+          <header id="topo">
+              <h1>Sistema Solar</h1>
+          </header>
+          <nav class="menu">
+            <ul>
+               <li><a href="index.html">Inicio</a></li>
+               <li><a href="sobre.html">Sobre</a></li>
+               <li>solar
+                   <ul>
+                       <li>Astros
+                           <ul>
+                             <li><a href="sol.html">sol</a></li>
+                             <li><a href="astroides.html">Astroides</a></li>
+                             <li><a href="cometas.html">Cometas</a></li>
+                           </ul>
+                       </li>
+                       <li>Satelites
+                           <ul>
+                              <li><a href="lua.html">Lua</a></li>
+                           </ul>
+                       </li>
+                       <li>Planetas
+                          <ul>
+                             <li><a href="mercurio.html">Merculio</a></li>
+                             <li><a href="venus.html">Venus</a></li>
+                             <li><a href="terra.html">Terra</a></li>
+                             <li><a href="marte.html">Marte</a></li>
+                             <li><a href="jupiter.html">Jupiter</a></li>
+                             <li><a href="Saturno.html">Saturno</a></li>
+                             <li><a href="urano.html">Urano</a></li>
+                             <li><a href="netuno.html">Netuno</a></li>
+                             <li><a href="plutao.html">Plutão</a></li>
+                          </ul> 
+                       </li>
+                   </ul>
+               </li>
+               <li><a href="referencia.html">Referencias</a></li>
+            </ul>  
+         </nav>
+       </div>
+       <div id="conteudo">
+
+           <h2>Sobre o site</h2>
+
+           <img src="imagens/planetas-do-sistema-solar.jpg" alt="Os planetas solares" width="1058">
+
+           <p>Foi o Gustavo Gregório criou o layout para me desenvolver na carreira de programador web, no Senac Botafogo do Rio de Janeiro,
+           um curso muito bom que aprende muito e faz o aluno se desenvolver profissionalmente, motivando a pesquisa e que ele investigue mais sobre
+           a area de programação, sobre sistemas solar, logo a baixo existe o movimento do planeta e suas caracteristicas</p>
+
+           <h2>Movimento do Planeta e as suas características</h2>
+           
+           <hr>
+
+           <h2>Movimento de Rotação</h2>
+
+           <p>No movimento de rotação, os planetas giram em torno do seu próprio eixo, uma linha imaginária que passa pelo seu centro. O 
+           observador terrestre tem dificuldade de perceber o movimento de rotação da Terra. Para isso deve-se notar que o Sol, do amanhecer 
+           ao anoitecer, parece se mover da região leste em sentido oeste. O mesmo acontece, à noite, com a Lua, as estrelas e demais astros 
+           que vemos no céu. O movimento de rotação da Terra dura, aproximadamente 24horas - o que corresponde a um dia. A Terra, por ser 
+           esférica, não é iluminada toda de uma vez só. Conforme a Terra gira em torno do seu eixo, os raios de luz solar incidem sobre uma 
+           parte do planeta e a outra fica à sombra. O ciclo do dia e da noite ocorrem graças a rotação. Enquanto o planeta está girando sobre 
+           seu próprio eixo é dia nas regiões que estão iluminadas pelo Sol (período claro) e, simultaneamente, é noite nas regiões não 
+           iluminadas (período escuro).</p>
+
+           <h2>Movimento de Translação</h2>
+
+           <p>O movimento de translação é executado pelos planetas ao redor do Sol, e o tempo que levam para dar uma volta completa é denominado 
+           período orbital. No caso da Terra esse período leva cerca de 365 dias e aproximadamente 6 horas para se completar. A Terra, no seu 
+           movimento de translação, forma uma elipse pouco alongada (bem próxima a circular). Já o planeta Netuno traça a sua órbita elíptica de 
+           forma bastante alongada. Em razão do movimento de translação e da posição de inclinação do eixo da Terra, cada hemisfério fica, 
+           alternadamente, mais exposto aos raios solares durante um período do ano. Isso resulta nas quatro estações do ano: verão, outono, 
+           inverno e primavera. Nos meses de dezembro a março, o Hemisfério Sul - localizado ao sul da linha do Equador - fica mais exposto ao Sol. 
+           É quando os raios solares incidem perpendicularmente sobre pelo menos alguns pontos do Hemisfério Sul. É verão nesse hemisfério. Depois 
+           de seis meses, nos meses de junho a setembro, a Terra já percorreu metade da sua órbita. O Hemisfério Norte - localizado ao norte da 
+           linha do Equador - fica mais exposto ao Sol e, assim, os raios solares incidem perpendicularmente sobre pelo menos alguns pontos do 
+           Hemisfério Norte. É verão no Hemisfério Norte. Enquanto é verão no Hemisfério Norte com os dias mais longos e as noites mais curtos, 
+           é inverno no Hemisfério Sul, onde os dias tornam-se mais curtos e as noites mais longas. E vice-e-versa. Em dois períodos do ano 
+           (de março a junho e de setembro a dezembro) ha posições da Terra, na sua órbita, em que os dois hemisférios são iluminados igualmente. 
+           É quando ocorrem, de forma alternada nos dois hemisférios, as estações climáticas primavera e outono. As estações do ano são invertidas 
+           entre os hemisférios Sul e Norte. Por isso é possível, numa mesma época do ano, por exemplo, pessoas aproveitarem o verão numa praia no 
+           Hemisfério Sul, enquanto outras se agasalharem por causa de uma nevasca de inverno no Hemisfério Norte. Nas regiões perto da linha do 
+           Equador, tanto em um hemisfério quanto no outro, ocorre constantemente a incidência dos raios do Sol, faz calor durante todo o ano. 
+           Há apenas a estação das chuvas e a estação da seca. Em virtude da "curvatura da Terra" e da inclinação do eixo de rotação da Terra em 
+           relação ao seu plano de órbita, os polos recebem raios de Sol bastante inclinados. Por um longo período do ano, os raios solares não 
+           chegam aos polos, por isso essas são regiões muito frias.</p>
+
+       </div>    
+       <footer id="rodape">
+            <p>Desenvolvido por Gustavo Gregório</p>
+            <p>Turma de Programador web no Senac</p>
+         </footer>        
+     </div>
+    </body>
+</html>
